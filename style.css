@@ -1,10 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: "Open Sans", sans-serif;
-}
-h1{
-    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 nav{
     background-color: transparent;
@@ -40,7 +37,7 @@ video{
 
 .overlay{
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 60%;
     color: white;
 }
