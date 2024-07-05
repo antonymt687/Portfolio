@@ -3,6 +3,9 @@
     padding: 0;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+h1{
+    color: white;
+}
 nav{
     background-color: transparent;
     height: 50px;
@@ -38,7 +41,7 @@ video{
 .overlay{
     position: absolute;
     top: 40%;
-    left: 60%;
+    left: 75%;
     color: white;
 }
 
