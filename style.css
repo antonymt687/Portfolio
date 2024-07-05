@@ -26,10 +26,8 @@ nav ul li a{
     font-weight: bolder;
     margin: 20px;
     text-decoration: none;
-}
+    text-shadow: 2px 4px 6px rgb(195, 77, 77);
 
-nav ul li a:hover{
-    text-shadow: 2px 4px 6px black;
 }
 
 video{
